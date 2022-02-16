@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on the evaluation of cybermedicine.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ac22097bf75c27697e20dbb87ce08c1b_MITHST_921S09_lec01_slack.pdf
+file: /media/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ac22097bf75c27697e20dbb87ce08c1b_MITHST_921S09_lec01_slack.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Cybermedicine for the Clinician
 uid: ac22097b-f75c-2769-7e20-dbb87ce08c1b

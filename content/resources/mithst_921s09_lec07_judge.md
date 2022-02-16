@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on the Ambulatory Practice of the Future (APF) primary
   care model.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ebd9af47df5bbe9cbe0e9f1abe74261b_MITHST_921S09_lec07_judge.pdf
+file: /media/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ebd9af47df5bbe9cbe0e9f1abe74261b_MITHST_921S09_lec07_judge.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Ambulatory Practice of the Future
 uid: ebd9af47-df5b-be9c-be0e-9f1abe74261b

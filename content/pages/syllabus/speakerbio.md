@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 81fb9d3c-ba6a-4436-96a0-318b467e54b5
 title: Faculty, Guest Speakers and Project Mentors
 uid: 6aefd066-812b-18f3-8679-332e1375cb93

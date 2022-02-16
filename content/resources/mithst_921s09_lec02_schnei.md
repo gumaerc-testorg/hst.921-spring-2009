@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation providing an overview of the Massachusetts Health
   Data Consortium in 2009.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/69349cc595bf6a2b39b06615fdf0a7f0_MITHST_921S09_lec02_schnei.pdf
+file: /media/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/69349cc595bf6a2b39b06615fdf0a7f0_MITHST_921S09_lec02_schnei.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Massachusetts Health Data Consortium in 2009
 uid: 69349cc5-95bf-6a2b-39b0-6615fdf0a7f0
