@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: Cybermedicine for the Clinician
 uid: ac22097b-f75c-2769-7e20-dbb87ce08c1b

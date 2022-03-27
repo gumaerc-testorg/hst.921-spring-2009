@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: Makings of a Team
 uid: c9bd1873-f857-6f8c-1ef6-2c01f0e9bf2d

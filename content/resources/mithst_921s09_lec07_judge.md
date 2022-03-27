@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: Ambulatory Practice of the Future
 uid: ebd9af47-df5b-be9c-be0e-9f1abe74261b

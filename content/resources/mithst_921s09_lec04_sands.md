@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: Individual Engagement through Technology
 uid: 98306f20-427b-781b-eecf-5b6cf09d6d57

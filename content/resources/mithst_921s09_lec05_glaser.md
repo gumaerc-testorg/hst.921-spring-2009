@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: The Future of HealthCare Information Technology
 uid: 1b19e370-6ddc-99a8-391a-7b7582f323c1

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: Various Funding Sources for Healthcare/Life Sciences Companies
 uid: 6b5452cf-d6d0-f091-cb3a-2f3fa883e6b3

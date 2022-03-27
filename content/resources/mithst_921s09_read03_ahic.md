@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04f46d38-b350-cc35-5c88-1b9c13a0b50a
 resourcetype: Document
 title: American Health Information Community Meeting Report
 uid: 84a812f4-80fb-7490-3d96-e179884a6039

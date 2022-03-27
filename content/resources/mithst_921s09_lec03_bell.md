@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 2f515bfd-1d28-0500-e4d5-ad730d9ebf30
 resourcetype: Document
 title: 'Health IT and Electronic Health Records: More Complicated Than You Thought'
 uid: 92c7a7ad-f319-bd77-baee-b1961cc2ed7f

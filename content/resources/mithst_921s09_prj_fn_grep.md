@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad7aadb8-b164-e52f-4501-e5039a225a53
 resourcetype: Document
 title: Final Report Grading Summary
 uid: ff2a1a66-9064-06ab-4822-8996668ac007

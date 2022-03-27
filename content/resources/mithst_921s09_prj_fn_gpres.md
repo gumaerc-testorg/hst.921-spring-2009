@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad7aadb8-b164-e52f-4501-e5039a225a53
 resourcetype: Document
 title: Team Presentations
 uid: f85e3984-e9cb-7165-c13e-0a980b64ede5
