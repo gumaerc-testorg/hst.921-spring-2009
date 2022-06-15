@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, selected lecture
+  and tutorial files, and a link to a multimedia topic overview from the 2008 version
+  of the class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,9 +42,9 @@ Welcome and course introduction Evolution of cybermedicine
 {{< tdopen >}}
 
 
-Dr. Steven Locke: Course Introduction ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec01_locke))
+Dr. Steven Locke: Course Introduction ({{% resource_link 406ad3bc-52cb-fb6c-ec11-715c4554a49d "PDF" %}})
 
-Dr. Warner Slack: Evolution of Cybermedicine ([PDF - 1.0MB]({{< baseurl >}}/resources/mithst_921s09_lec01_slack))
+Dr. Warner Slack: Evolution of Cybermedicine ({{% resource_link ac22097b-f75c-2769-7e20-dbb87ce08c1b "PDF - 1.0MB" %}})
 
 
 {{< tdclose >}}
@@ -55,7 +58,7 @@ Dr. Warner Slack: Evolution of Cybermedicine ([PDF - 1.0MB]({{< baseurl >}}/reso
 Industry overview: the future of healthcare
 {{< tdclose >}}
 {{< tdopen >}}
-Craig Schneider: The Massachusetts Health Data Consortium in 2009 ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec02_schnei)) (Courtesy of Craig Schneider. Used with permission.)
+Craig Schneider: The Massachusetts Health Data Consortium in 2009 ({{% resource_link 69349cc5-95bf-6a2b-39b0-6615fdf0a7f0 "PDF" %}}) (Courtesy of Craig Schneider. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,13 +72,13 @@ eHRs, pHRs & xHRs!
 {{< tdopen >}}
 
 
-Dr. Danny Sands: eHR's, pHR's, xHR's! ([PDF - 1.2MB]({{< baseurl >}}/resources/mithst_921s09_lec04_sands))
+Dr. Danny Sands: eHR's, pHR's, xHR's! ({{% resource_link 98306f20-427b-781b-eecf-5b6cf09d6d57 "PDF - 1.2MB" %}})
 
-Tutorial: Uniqueness and Complimentary Assets ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec04_tu_unq))
+Tutorial: Uniqueness and Complimentary Assets ({{% resource_link 3aaba159-ec5c-73a2-bb0d-15d791017a8f "PDF" %}})
 
-Tutorial: Makings of a Team ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec04_tu_tm))
+Tutorial: Makings of a Team ({{% resource_link c9bd1873-f857-6f8c-1ef6-2c01f0e9bf2d "PDF" %}})
 
-Tutorial: Project Management Timeline ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec04_tut_pm))
+Tutorial: Project Management Timeline ({{% resource_link d9dbdce5-31df-cf67-2714-025bd4a54868 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -91,9 +94,9 @@ The role of innovation in enterprise computing
 {{< tdopen >}}
 
 
-Dr. John Glaser: The Future of HealthCare Information Technology ([PDF - 1.1MB]({{< baseurl >}}/resources/mithst_921s09_lec05_glaser))
+Dr. John Glaser: The Future of HealthCare Information Technology ({{% resource_link 1b19e370-6ddc-99a8-391a-7b7582f323c1 "PDF - 1.1MB" %}})
 
-Tutorial: Business Plans ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec05_bizplan))
+Tutorial: Business Plans ({{% resource_link 7d45ed3d-1fd9-0a11-3f45-83c35ce560ad "PDF" %}})
 
 
 {{< tdclose >}}
@@ -109,9 +112,9 @@ From disease management to population health management
 {{< tdopen >}}
 
 
-Dr. David Judge: Ambulatory Practice of the Future ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec07_judge))
+Dr. David Judge: Ambulatory Practice of the Future ({{% resource_link ebd9af47-df5b-be9c-be0e-9f1abe74261b "PDF" %}})
 
-Tutorial: Preparing your Elevator Pitch ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec07_tu_pch))
+Tutorial: Preparing your Elevator Pitch ({{% resource_link 60079447-324e-d9d7-81a9-85a6c693a985 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -125,7 +128,7 @@ Tutorial: Preparing your Elevator Pitch ([PDF]({{< baseurl >}}/resources/mithst_
 An investor's view of startups
 {{< tdclose >}}
 {{< tdopen >}}
-Eugene Hill: How Venture Capitalists Assess Healthcare Information Technology Business Plans ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec08_hill))
+Eugene Hill: How Venture Capitalists Assess Healthcare Information Technology Business Plans ({{% resource_link 7e9f28be-7edc-c310-24d2-cd87ad84bb05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +140,7 @@ Eugene Hill: How Venture Capitalists Assess Healthcare Information Technology Bu
 Starting up: funding sources for for-profit and social entrepreneurship
 {{< tdclose >}}
 {{< tdopen >}}
-Panel: Starting up: Funding Sources for For-Profit and Social Entrepreneurship ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec10_panel))
+Panel: Starting up: Funding Sources for For-Profit and Social Entrepreneurship ({{% resource_link 6b5452cf-d6d0-f091-cb3a-2f3fa883e6b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +152,7 @@ Panel: Starting up: Funding Sources for For-Profit and Social Entrepreneurship (
 Global perspective on health informatics business
 {{< tdclose >}}
 {{< tdopen >}}
-Keith Strier (Deloitte LLP): Rise of the Data Tiger: Will Asia Assume Global Leadership in Health Informatics? ([PDF - 1.5MB]({{< baseurl >}}/resources/mithst_921s09_lec14_strier))
+Keith Strier (Deloitte LLP): Rise of the Data Tiger: Will Asia Assume Global Leadership in Health Informatics? ({{% resource_link 464637c5-6b88-48da-6ad6-3aa7c5e658c5 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

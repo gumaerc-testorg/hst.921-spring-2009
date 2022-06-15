@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides short biographies of the core faculty, guest speakers,
+  and project mentors for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "This section describes the objectives and deliverables for the group\
+  \ projects, and lists some representative projects during the past decade\u2019\
+  s classes."
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -75,7 +78,7 @@ Presentation 2: Uniqueness and complementary assets
 
 What are the unique characteristics and complementary assets of your e-Health platform?
 
-Refer to tutorial slides ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec04_tu_unq))
+Refer to tutorial slides ({{% resource_link 3aaba159-ec5c-73a2-bb0d-15d791017a8f "PDF" %}})
 
 Prepare a 10-minute presentation (~5 slides) to address the question above. Presentation will count towards participation grade.
 
@@ -105,7 +108,7 @@ A potential corporate partner who may co-invest in your project
 
 Select one student team member to deliver the pitch (OK to have two people but make sure the transition is smooth)
 
-Use the guidelines in this Elevator pitch tutorial for maximum success! ([PDF]({{< baseurl >}}/resources/mithst_921s09_lec07_tu_pch))
+Use the guidelines in this Elevator pitch tutorial for maximum success! ({{% resource_link 60079447-324e-d9d7-81a9-85a6c693a985 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -121,9 +124,9 @@ Final Presentation and report
 {{< tdopen >}}
 
 
-Final presentation guidelines ([PDF]({{< baseurl >}}/resources/mithst_921s09_prj_fn_gpres))
+Final presentation guidelines ({{% resource_link f85e3984-e9cb-7165-c13e-0a980b64ede5 "PDF" %}})
 
-Final report guidelines ([PDF]({{< baseurl >}}/resources/mithst_921s09_prj_fn_grep))
+Final report guidelines ({{% resource_link ff2a1a66-9064-06ab-4822-8996668ac007 "PDF" %}})
 
 
 {{< tdclose >}}

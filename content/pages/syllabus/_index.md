@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides and introduction to the course and information
+  on meeting times, prerequisites, objectives, scope, mission, grading, and the schedule
+  of lecture topics, invited speakers, and tutorial/practicum topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -26,7 +29,7 @@ Innovation in healthcare requires leaders who are trained to think and act like 
 
 ### Interdisciplinary Faculty
 
-[Faculty, guest speaker, and project mentor biographies]({{< baseurl >}}/pages/syllabus/speakerbio)
+{{% resource_link 6aefd066-812b-18f3-8679-332e1375cb93 "Faculty, guest speaker, and project mentor biographies" %}}
 
 The core faculty team brings to the students a complementary set of experiences and skill sets that create a mentoring environment and 'think tank' like incubator experience that promotes creative idea generation and provides a comprehensive perspective for evaluating the evolving healthcare and biolifescience industry landscape.
 
