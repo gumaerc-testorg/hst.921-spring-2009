@@ -5,6 +5,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Rise of the Data Tiger: Will Asia Assume Global Leadership in Health Inf
 uid: 464637c5-6b88-48da-6ad6-3aa7c5e658c5
 ---
 Lecture presentation on health informatics business from the global perspective.
-

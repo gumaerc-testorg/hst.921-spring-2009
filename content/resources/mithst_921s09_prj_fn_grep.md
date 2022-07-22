@@ -5,6 +5,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Final Report Grading Summary
 uid: ff2a1a66-9064-06ab-4822-8996668ac007
 ---
 Summary of how the final report for the course project will be graded.
-

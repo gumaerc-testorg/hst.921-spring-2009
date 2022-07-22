@@ -13,10 +13,10 @@ image_metadata:
   image-alt: Screenshot of a computer screen with several medical images and personal
     medical history information.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: VistA Computerized Patient Record System
 uid: 7df94e52-c5ad-36b3-1b54-906aceaf07b8
 ---
 Cropped screenshot of the VA's VistA computerized patient record system, which integrates access and display of a patient's clinical images and medical history data. (Image courtesy of the United States Department of Veterans Affairs.)
-

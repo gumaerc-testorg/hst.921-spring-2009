@@ -5,6 +5,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Project Management Timeline
 uid: d9dbdce5-31df-cf67-2714-025bd4a54868
 ---
 Timeline for the course project.
-

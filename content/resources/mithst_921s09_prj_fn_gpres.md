@@ -5,6 +5,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Team Presentations
 uid: f85e3984-e9cb-7165-c13e-0a980b64ede5
 ---
 Guidelines for giving team presentations on the course project.
-

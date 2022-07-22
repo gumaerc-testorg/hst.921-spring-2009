@@ -6,6 +6,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: How Venture Capitalists Assess Healthcare Information Technology Business
 uid: 7e9f28be-7edc-c310-24d2-cd87ad84bb05
 ---
 Lecture presentation on how venture capitalists assess healthcare information technology business plans.
-

@@ -7,6 +7,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Various Funding Sources for Healthcare/Life Sciences Companies
 uid: 6b5452cf-d6d0-f091-cb3a-2f3fa883e6b3
 ---
 Lecture presentation on funding sources for healthcare and life sciences companies, entrepreneurs, social entrepreneurs, types of sources, and the funding landscape.
-

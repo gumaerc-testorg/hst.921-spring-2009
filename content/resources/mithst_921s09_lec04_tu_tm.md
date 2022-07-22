@@ -6,6 +6,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Makings of a Team
 uid: c9bd1873-f857-6f8c-1ef6-2c01f0e9bf2d
 ---
 Lecture presentation on ways to improve team work: role clarity, communication, personnel support, resources, innovation, and global assessment.
-

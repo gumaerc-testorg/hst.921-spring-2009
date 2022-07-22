@@ -8,6 +8,7 @@ file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Course Introduction
 uid: 406ad3bc-52cb-fb6c-ec11-715c4554a49d
 ---
 Lecture presentation providing a course introduction, the course mission statement, an overview of the course, and information on faculty, students, and sponsors, lectures, tutorials, practicum, projects and final presentations, frequently asked questions, and registration and credit.
-
