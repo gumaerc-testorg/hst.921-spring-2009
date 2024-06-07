@@ -3,6 +3,7 @@ content_type: resource
 description: American Health Information Community (AHIC). Minutes of meeting September
   23, 2008.
 file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/84a812f480fb74903d96e179884a6039_MITHST_921S09_read03_ahic.pdf
+file_size: 394894
 file_type: application/pdf
 learning_resource_types:
 - Readings
