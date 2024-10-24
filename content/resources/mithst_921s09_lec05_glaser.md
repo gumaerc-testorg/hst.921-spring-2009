@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture presentation on the future of healthcare information technology,\
   \ \x84interoperable electronic health records, personalized medicine, and connected\
   \ care."
-file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/1b19e3706ddc99a8391a7b7582f323c1_MITHST_921S09_lec05_glaser.pdf
+file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/1b19e3706ddc99a8391a7b7582f323c1_MITHST_921S09_lec05_glaser.pdf
 file_size: 1198257
 file_type: application/pdf
 learning_resource_types:
