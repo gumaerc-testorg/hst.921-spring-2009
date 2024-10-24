@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the evaluation of cybermedicine.
-file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ac22097bf75c27697e20dbb87ce08c1b_MITHST_921S09_lec01_slack.pdf
+file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/ac22097bf75c27697e20dbb87ce08c1b_MITHST_921S09_lec01_slack.pdf
 file_size: 886809
 file_type: application/pdf
 learning_resource_types:

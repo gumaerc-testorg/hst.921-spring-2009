@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on healthcare information technology, electronic
   health records, and the 2014 Goal and Vision for Health IT (HIT).
-file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/92c7a7adf319bd77baeeb1961cc2ed7f_MITHST_921S09_lec03_bell.pdf
+file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/92c7a7adf319bd77baeeb1961cc2ed7f_MITHST_921S09_lec03_bell.pdf
 file_size: 332806
 file_type: application/pdf
 learning_resource_types:
