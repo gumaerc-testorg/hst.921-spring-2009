@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on uniqueness and complementary assets in e-Health
   entrepreneurship.
-file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/3aaba159ec5c73a2bb0d15d791017a8f_MITHST_921S09_lec04_tu_unq.pdf
+file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/3aaba159ec5c73a2bb0d15d791017a8f_MITHST_921S09_lec04_tu_unq.pdf
 file_size: 61257
 file_type: application/pdf
 learning_resource_types:
