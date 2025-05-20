@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Timeline for the course project.
-file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/d9dbdce531dfcf672714025bd4a54868_MITHST_921S09_lec04_tut_pm.pdf
+file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/d9dbdce531dfcf672714025bd4a54868_MITHST_921S09_lec04_tut_pm.pdf
 file_size: 95650
 file_type: application/pdf
 learning_resource_types:

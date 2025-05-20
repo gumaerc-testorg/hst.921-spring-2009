@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on funding sources for healthcare and life sciences
   companies, entrepreneurs, social entrepreneurs, types of sources, and the funding
   landscape.
-file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/6b5452cfd6d0f091cb3a2f3fa883e6b3_MITHST_921S09_lec10_panel.pdf
+file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/6b5452cfd6d0f091cb3a2f3fa883e6b3_MITHST_921S09_lec10_panel.pdf
 file_size: 588161
 file_type: application/pdf
 learning_resource_types:
