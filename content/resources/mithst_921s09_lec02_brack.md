@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the future of the United States healthcare industry.
-file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/10fc3aef2151891f81596c22a5db08e1_MITHST_921S09_lec02_brack.pdf
+file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/10fc3aef2151891f81596c22a5db08e1_MITHST_921S09_lec02_brack.pdf
 file_size: 844155
 file_type: application/pdf
 learning_resource_types:

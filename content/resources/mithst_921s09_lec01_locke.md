@@ -4,7 +4,7 @@ description: Lecture presentation providing a course introduction, the course mi
   statement, an overview of the course, and information on faculty, students, and
   sponsors, lectures, tutorials, practicum, projects and final presentations, frequently
   asked questions, and registration and credit.
-file: /courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/406ad3bc52cbfb6cec11715c4554a49d_MITHST_921S09_lec01_locke.pdf
+file: /ol-ocw-studio-app/courses/hst-921-information-technology-in-the-health-care-system-of-the-future-spring-2009/406ad3bc52cbfb6cec11715c4554a49d_MITHST_921S09_lec01_locke.pdf
 file_size: 325491
 file_type: application/pdf
 learning_resource_types:
