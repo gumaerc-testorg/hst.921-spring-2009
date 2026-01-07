@@ -41,11 +41,11 @@ Combining the ongoing practice of medicine with working in the business of healt
 
 We are indebted to our course corporate partners, who provide generous grants to support the student projects this semester.
 
-*   {{% resource_link "823ec0d2-1c2c-469b-8a65-cf30a90a4b69" "Aetna" %}}
-*   {{% resource_link "05b57c2b-1011-423d-95b9-da4086577c3a" "Atrius Health" %}}
-*   {{% resource_link "88723e33-119e-4a43-8177-c0c29825cc80" "Cisco Systems" %}}
-*   {{% resource_link "b114af49-3591-45f6-87bb-9f4eae7116af" "Intel" %}} (Link will open in a new browser window)
-*   {{% resource_link "ee4658ba-8e0f-4c22-819b-c8327c3c742d" "Symantec" %}}
+*   [Aetna](http://www.aetna.com/)
+*   [Atrius Health](http://www.atriushealth.org/)
+*   [Cisco Systems](http://www.cisco.com/)
+*   [Intel](http://www.intel.com/) (Link will open in a new browser window)
+*   [Symantec](https://www.broadcom.com/support/security-center)
 
 Prerequisites
 -------------
